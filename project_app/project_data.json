@@ -1,0 +1,12 @@
+{"transmission": {"Manual": 1, "Automatic": 0},
+ "seller_type": {"Individual": 0, "Dealer": 1, "Trustmark Dealer": 2},
+  "owner": {"First Owner": 1, "Second Owner": 2, "Third Owner": 3, "Fourth & Above Owner": 4, "Test Drive Car": 0},
+   "fuel": {"Diesel": 1, "Petrol": 2, "CNG": 3, "LPG": 4, "Electric": 5},
+ "columns": ["year", "km_driven", "fuel", "seller_type", "transmission", "owner", "car_brand_name_Audi", 
+ "car_brand_name_BMW", "car_brand_name_Chevrolet", "car_brand_name_Daewoo", "car_brand_name_Datsun",
+  "car_brand_name_Fiat", "car_brand_name_Force", "car_brand_name_Ford", "car_brand_name_Honda",
+   "car_brand_name_Hyundai", "car_brand_name_Isuzu", "car_brand_name_Jaguar", "car_brand_name_Jeep",
+    "car_brand_name_Kia", "car_brand_name_Land", "car_brand_name_MG", "car_brand_name_Mahindra",
+     "car_brand_name_Maruti", "car_brand_name_Mercedes-Benz", "car_brand_name_Mitsubishi", 
+     "car_brand_name_Nissan", "car_brand_name_OpelCorsa", "car_brand_name_Renault", 
+     "car_brand_name_Skoda", "car_brand_name_Tata", "car_brand_name_Toyota", "car_brand_name_Volkswagen", "car_brand_name_Volvo"]}
